@@ -16,7 +16,7 @@ $('body').on('change', '.w_sidebar input', function(){
                 });
             },
             success: function(res){
-                $('.preloader').delay(500).fadeOut('slow', function(){
+                $('.preloader').delay(300).fadeOut('slow', function(){
                     $('.product-one').html(res).fadeIn();
                 });
             },

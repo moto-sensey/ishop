@@ -19,7 +19,7 @@ class AppController extends Controller{
   }
 
   public static function cacheCategory(){
-    $cache = Cache::instance();
+    $cache = Cache::getInstance();
     $cats = $cache->get('cats');
     if(!$cats){
       $cats = \R::getAssoc("SELECT * FROM category");

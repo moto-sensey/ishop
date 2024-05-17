@@ -1,820 +1,90 @@
-[2023-12-08 19:58:09] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-06 21:48:14] Error 0: Call to undefined method ishop\Db::instance() | File: C:\xampp\htdocs\ishop\vendor\ishop\core\base\Model.php | Line: 14
 ====================
-[2023-12-10 20:35:16] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-06 21:48:14] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 41
 ====================
-[2023-12-10 22:19:56] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-06 21:49:39] Error 0: Call to undefined method ishop\Db::instance() | File: C:\xampp\htdocs\ishop\vendor\ishop\core\base\Model.php | Line: 14
 ====================
-[2023-12-11 20:34:03] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-06 21:50:46] Error 0: Call to undefined method ishop\Cache::instance() | File: C:\xampp\htdocs\ishop\app\controllers\AppController.php | Line: 22
 ====================
-[2023-12-12 22:17:25] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-06 21:51:25] Error 0: Call to undefined method ishop\Cache::instance() | File: C:\xampp\htdocs\ishop\app\widgets\menu\Menu.php | Line: 37
 ====================
-[2023-12-15 22:19:43] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-06 21:52:26] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
 ====================
-[2023-12-15 23:13:02] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-06 21:53:34] Error 0: Call to undefined method ishop\Cache::instance() | File: C:\xampp\htdocs\ishop\app\widgets\filter\Filter.php | Line: 19
 ====================
-[2023-12-16 00:47:16] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-06 21:53:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 41
 ====================
-[2023-12-16 00:47:16] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-06 21:53:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 41
 ====================
-[2023-12-16 00:51:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-06 21:53:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 41
 ====================
-[2023-12-16 00:51:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-06 21:53:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 41
 ====================
-[2023-12-16 01:22:56] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 00:01:56] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 43
 ====================
-[2023-12-16 01:22:56] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 00:02:00] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 43
 ====================
-[2023-12-16 01:42:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 00:02:20] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 43
 ====================
-[2023-12-16 01:42:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 00:02:43] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
 ====================
-[2023-12-16 01:42:36] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 00:02:56] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
 ====================
-[2023-12-16 01:42:36] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 00:16:25] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 43
 ====================
-[2023-12-16 01:59:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 00:47:50] Error 500: Undefined variable $content | File: C:\xampp\htdocs\ishop\app\views\layouts\watches.php | Line: 143
 ====================
-[2023-12-16 22:53:00] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 00:47:50] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 43
 ====================
-[2023-12-16 23:01:33] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 01:18:42] Error 500: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated | File: C:\xampp\htdocs\ishop\vendor\ishop\core\helpers\functions.php | Line: 21
 ====================
-[2023-12-17 01:14:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 01:20:25] Error 500: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated | File: C:\xampp\htdocs\ishop\vendor\ishop\core\helpers\functions.php | Line: 21
 ====================
-[2023-12-17 01:14:10] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 01:20:47] Error 500: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated | File: C:\xampp\htdocs\ishop\vendor\ishop\core\helpers\functions.php | Line: 21
 ====================
-[2023-12-17 01:17:30] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 01:21:18] Error 500: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated | File: C:\xampp\htdocs\ishop\vendor\ishop\core\helpers\functions.php | Line: 21
 ====================
-[2023-12-17 01:17:36] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 01:21:32] Error 500: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated | File: C:\xampp\htdocs\ishop\vendor\ishop\core\helpers\functions.php | Line: 21
 ====================
-[2023-12-17 01:17:40] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 01:22:17] Error 500: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated | File: C:\xampp\htdocs\ishop\vendor\ishop\core\helpers\functions.php | Line: 21
 ====================
-[2023-12-17 01:24:54] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 01:22:17] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 45
 ====================
-[2023-12-17 01:24:54] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 01:24:04] Error 500: htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated | File: C:\xampp\htdocs\ishop\vendor\ishop\core\helpers\functions.php | Line: 21
 ====================
-[2023-12-17 01:30:49] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 01:24:04] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 45
 ====================
-[2023-12-17 01:30:49] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 22:46:13] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 45
 ====================
-[2023-12-17 01:43:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 22:53:40] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 45
 ====================
-[2023-12-17 01:43:27] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 23:42:15] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 45
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 23:42:18] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 851
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 23:42:25] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 851
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-07 23:43:01] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 851
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-08 01:05:53] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 851
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-08 01:05:58] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 851
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-10 00:13:19] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\Router.php | Line: 43
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-10 23:07:07] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\Router.php | Line: 43
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-30 23:13:44] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\Router.php | Line: 43
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-30 23:18:35] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\Router.php | Line: 43
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-31 00:35:25] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 851
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-31 00:35:25] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\Router.php | Line: 43
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-31 00:36:37] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 851
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-31 00:47:51] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 851
 ====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-17 01:43:41] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:33] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:33] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:33] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:33] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:33] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:33] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:33] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:33] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:33] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:33] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:33] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 20:58:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:19] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:23] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:23] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:23] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:23] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:23] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:24] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:24] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:24] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:24] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:24] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:25] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:25] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:25] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:25] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:25] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:03:25] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:12:12] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:23:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:23:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:23:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:23:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:23:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:23:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:23:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:23:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:23:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:23:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:23:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:46] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:46] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:46] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:46] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:46] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:46] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:46] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:46] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:46] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:46] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:46] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:25:46] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:29:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:30:54] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:30:55] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:30:55] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:30:55] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:30:55] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:30:56] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:30:56] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:30:56] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:30:56] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:30:56] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:30:56] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-19 23:30:56] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-20 22:12:27] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-20 22:12:28] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-20 22:12:28] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-20 22:12:28] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-20 22:12:28] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-20 22:12:28] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-20 23:23:34] Error 404: Controller app\controllers\BrandController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2023-12-20 23:23:43] Error 404: Controller app\controllers\CategoryController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2023-12-20 23:38:14] Error 404: Controller app\controllers\CartController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2023-12-20 23:56:15] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-24 22:02:52] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-24 22:05:15] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-24 22:24:40] Error 0: syntax error, unexpected token ")" | File: C:\xampp\htdocs\ishop\app\views\Product\view.php | Line: 169
-====================
-[2023-12-25 00:09:31] Error 0: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd' in 'where clause' | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2023-12-25 01:45:15] Error 0: Call to undefined method app\models\Product::setAllRecentlyViewed() | File: C:\xampp\htdocs\ishop\app\controllers\ProductController.php | Line: 17
-====================
-[2023-12-25 01:48:30] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-25 02:20:54] Error 0: syntax error, unexpected token "}" | File: C:\xampp\htdocs\ishop\app\models\Product.php | Line: 24
-====================
-[2023-12-25 21:35:51] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-25 22:06:48] Error 404: Controller app\controllers\CartController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2023-12-25 22:07:31] Error 404: Controller app\controllers\CartController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2023-12-26 23:58:39] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 21:46:06] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 0: Cannot access offset of type string on string | File: C:\xampp\htdocs\ishop\app\views\Product\view.php | Line: 246
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 22:36:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-27 23:36:12] Error 404: Controller app\controllers\CartController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2023-12-28 00:25:10] Error 500: View C:\xampp\htdocs\ishop/app/views/Cart/add.php not found | File: C:\xampp\htdocs\ishop\vendor\ishop\core\base\View.php | Line: 40
-====================
-[2023-12-28 00:25:47] Error 500: View C:\xampp\htdocs\ishop/app/views/Cart/add.php not found | File: C:\xampp\htdocs\ishop\vendor\ishop\core\base\View.php | Line: 40
-====================
-[2023-12-28 00:26:21] Error 500: View C:\xampp\htdocs\ishop/app/views/Cart/add.php not found | File: C:\xampp\htdocs\ishop\vendor\ishop\core\base\View.php | Line: 40
-====================
-[2023-12-28 00:26:24] Error 500: View C:\xampp\htdocs\ishop/app/views/Cart/add.php not found | File: C:\xampp\htdocs\ishop\vendor\ishop\core\base\View.php | Line: 40
-====================
-[2023-12-28 00:27:01] Error 500: View C:\xampp\htdocs\ishop/app/views/Cart/add.php not found | File: C:\xampp\htdocs\ishop\vendor\ishop\core\base\View.php | Line: 40
-====================
-[2023-12-28 01:19:46] Error 0: Class "app\models\Cart" not found | File: C:\xampp\htdocs\ishop\app\controllers\CartController.php | Line: 23
-====================
-[2023-12-28 21:31:38] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-29 20:36:36] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-30 01:01:42] Error 0: Access to undeclared static property app\controllers\CartController::$action | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 34
-====================
-[2023-12-30 01:03:42] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-30 01:14:35] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-30 01:29:54] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2023-12-30 01:33:59] Error 404: Controller app\controllers\CategoryController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2024-01-10 23:26:56] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-10 23:36:10] Error 0: Access to undeclared static property app\controllers\CartController::$action | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 34
-====================
-[2024-01-11 00:32:08] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-11 01:39:52] Error 0: Access to undeclared static property app\controllers\CartController::$action | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 34
-====================
-[2024-01-11 02:11:21] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-11 02:27:30] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-11 22:49:51] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-11 23:27:15] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-12 21:38:11] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-12 21:53:24] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-12 21:59:09] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-12 23:52:22] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-13 00:02:05] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-16 22:59:14] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-16 23:21:52] Error 404: Controller app\controllers\SearchController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2024-01-16 23:22:27] Error 404: Controller app\controllers\SearchController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2024-01-16 23:22:30] Error 404: Controller app\controllers\SearchController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2024-01-16 23:22:32] Error 404: Controller app\controllers\SearchController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2024-01-16 23:49:09] Error 404: Controller app\controllers\SerchController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2024-01-16 23:56:21] Error 404: Controller app\controllers\SerchController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2024-01-16 23:57:06] Error 404: Controller app\controllers\SerchController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2024-01-16 23:59:07] Error 404: Controller app\controllers\SerchController not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 37
-====================
-[2024-01-16 23:59:22] Error 0: Access to undeclared static property app\controllers\SearchController::$action | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 34
-====================
-[2024-01-17 01:06:01] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-17 01:18:48] Error 0: Access to undeclared static property app\controllers\SearchController::$action | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 34
-====================
-[2024-01-17 02:54:37] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-18 21:56:25] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-18 22:20:52] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:20:55] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:21:22] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:25:34] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:33:54] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:38:43] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:41:07] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:41:13] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:44:00] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:44:46] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:44:50] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:46:04] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:46:07] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:46:26] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:46:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-18 22:55:16] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 22:55:23] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:12:27] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:13:23] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:15:20] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\app\controllers\CategoryController.php | Line: 15
-====================
-[2024-01-18 23:16:01] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:18:13] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:18:16] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:18:20] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:19:04] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:19:49] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:20:03] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:20:05] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:20:44] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:26:45] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:33:51] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:35:25] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-18 23:51:22] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-18 23:56:19] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-19 00:02:44] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-19 02:28:47] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 00:34:14] Error 500: No database connection | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Db.php | Line: 17
-====================
-[2024-01-20 00:34:15] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-20 00:35:03] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 00:35:08] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 00:35:21] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 00:36:45] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 00:37:08] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 00:37:11] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 00:37:37] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 00:46:27] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 00:47:12] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:07:12] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:07:29] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:08:02] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:08:42] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:08:59] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:09:56] Error 0: Expected array, string given. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Line: 194
-====================
-[2024-01-20 01:10:22] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:10:54] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:11:05] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:11:15] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:11:26] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:11:55] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:12:51] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-20 01:28:15] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-20 02:07:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-20 03:27:37] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-20 21:34:57] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-21 01:34:35] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-21 22:15:01] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-21 23:30:00] Error 0: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'serg' for key 'login' | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-21 23:31:41] Error 0: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'serg909@gmail.com' for key 'email' | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-21 23:46:03] Error 0: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-21 23:46:07] Error 0: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-21 23:48:15] Error 0: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-21 23:48:24] Error 0: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-22 00:59:49] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-22 01:09:29] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-22 01:12:45] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-22 01:40:31] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-22 01:52:08] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-22 21:39:35] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-22 21:44:40] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-22 21:45:32] Error 0: Access to undeclared static property app\controllers\CartController::$action | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 34
-====================
-[2024-01-22 22:51:36] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-22 22:59:48] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-22 23:06:44] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-22 23:18:50] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-23 22:16:00] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-24 00:31:48] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-24 00:50:20] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-25 21:59:27] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-26 00:21:18] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-26 01:52:05] Error 0: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '%%'' at line 1 | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-26 01:54:34] Error 0: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '%%'' at line 1 | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-26 01:55:29] Error 0: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= NULL' at line 1 | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-26 01:56:25] Error 0: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= NULL' at line 1 | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-26 21:58:17] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-27 00:16:14] Error 0: Access to undeclared static property app\controllers\UserController::$action | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 34
-====================
-[2024-01-27 00:17:32] Error 0: Access to undeclared static property app\controllers\UserController::$action | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 34
-====================
-[2024-01-28 21:31:16] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-28 22:00:15] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:04:05] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:04:55] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:06:09] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:06:27] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:06:43] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:09:31] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:09:51] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:09:51] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-28 22:09:56] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:12:21] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:13:36] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:16:05] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:17:22] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:21:51] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:22:47] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 22:22:58] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-01-28 23:14:36] Error 0: Invalid type: unregister_user | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | Line: 78
-====================
-[2024-01-28 23:15:07] Error 0: Invalid type: unregister_user | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | Line: 78
-====================
-[2024-01-28 23:17:29] Error 0: Invalid type: unregister_user | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | Line: 78
-====================
-[2024-01-28 23:20:44] Error 0: Invalid type: unregister_user | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | Line: 78
-====================
-[2024-01-28 23:21:35] Error 0: Invalid type: unregister_user | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | Line: 78
-====================
-[2024-01-28 23:21:35] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-29 00:53:35] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-29 01:41:03] Error 0: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'login' | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-29 01:48:14] Error 0: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'login' | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-29 01:48:36] Error 0: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'login' | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-29 01:48:49] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-29 01:49:23] Error 0: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'login' | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-29 01:54:57] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-01-29 01:55:12] Error 0: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'login' | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-29 01:57:20] Error 0: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'login' | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-01-29 02:24:23] Error 0: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 's@s.com' for key 'email' | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Line: 206
-====================
-[2024-02-02 02:53:55] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-02 03:03:32] Error 0: Connection could not be established with host smtp.ukr.net :stream_socket_client(): Unable to connect to ssl://smtp.ukr.net:2525 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) | File: C:\xampp\htdocs\ishop\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php | Line: 261
-====================
-[2024-02-02 03:15:11] Error 0: Connection could not be established with host smtp.ukr.net :stream_socket_client(): Unable to connect to ssl://smtp.ukr.net:465 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) | File: C:\xampp\htdocs\ishop\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php | Line: 261
-====================
-[2024-02-02 03:17:20] Error 0: Connection could not be established with host smtp.ukr.net :stream_socket_client(): Unable to connect to tcp://smtp.ukr.net:465 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) | File: C:\xampp\htdocs\ishop\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php | Line: 261
-====================
-[2024-02-02 03:18:17] Error 0: Connection could not be established with host smtp.ukr.net :stream_socket_client(): Unable to connect to tcp://smtp.ukr.net:2525 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) | File: C:\xampp\htdocs\ishop\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php | Line: 261
-====================
-[2024-02-02 03:20:28] Error 0: Connection could not be established with host smtp.ukr.net :stream_socket_client(): Unable to connect to ssl://smtp.ukr.net:2525 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) | File: C:\xampp\htdocs\ishop\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php | Line: 261
-====================
-[2024-02-02 22:58:23] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-02 23:08:35] Error 0: Connection could not be established with host smtp.ukr.net :stream_socket_client(): Unable to connect to ssl://smtp.ukr.net:2525 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) | File: C:\xampp\htdocs\ishop\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php | Line: 261
-====================
-[2024-02-02 23:17:08] Error 0: Connection could not be established with host smtp.ukr.net :stream_socket_client(): Unable to connect to ssl://smtp.ukr.net:2525 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) | File: C:\xampp\htdocs\ishop\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php | Line: 261
-====================
-[2024-02-03 02:35:34] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-03 22:50:26] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-14 23:25:42] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 00:41:10] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 00:42:39] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 00:43:55] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 00:52:07] Error 0: syntax error, unexpected end of file | File: C:\xampp\htdocs\ishop\app\views\Product\view.php | Line: 247
-====================
-[2024-02-15 01:02:08] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 01:12:39] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 01:15:03] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 01:32:15] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 01:42:29] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 01:45:55] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 01:52:28] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 01:56:43] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 02:03:06] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-02-15 02:03:19] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-02-15 02:05:18] Error 0: Identifier does not conform to RedBeanPHP security policies. | File: C:\xampp\htdocs\ishop\vendor\gabordemooij\redbean\RedBeanPHP\QueryWriter\AQueryWriter.php | Line: 871
-====================
-[2024-02-15 02:28:32] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 02:46:32] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
-====================
-[2024-02-15 22:37:59] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\core\Router.php | Line: 40
+[2024-03-31 00:47:51] Error 404: Page not found! | File: C:\xampp\htdocs\ishop\vendor\ishop\Router.php | Line: 43
 ====================

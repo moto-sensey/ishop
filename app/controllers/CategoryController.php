@@ -5,18 +5,17 @@ namespace app\controllers;
 use app\models\Breadcrumbs;
 use app\models\Category;
 use ishop\App;
-use ishop\libs\Pagination;
+use ishop\helpers\Pagination;
+
+/** @property Category $model */
 
 class CategoryController extends AppController{
 
     public function viewAction(){
         $alias = $this->route['alias'];
-        
-        //debug($alias);
-        
-        //die;
         $brands = \R::find('brand');
-        $category = \R::findOne('çategory', 'alias = ?', [$alias]);
+        //$category = \R::findOne('çategory', 'alias = ?', [$alias]);
+        $category = $this->model->getCategory($alias);
         //debug($category);
         //die;
         if(!$category){

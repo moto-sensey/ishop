@@ -119,11 +119,6 @@ abstract class AQueryWriter
 	protected static $noNuke = false;
 
 	/**
-	 * @var bool
-	 */
-	protected static $treatFalseAsInt = FALSE;
-
-	/**
 	 * Sets a data definition template to change the data
 	 * creation statements per type.
 	 *
@@ -227,21 +222,6 @@ abstract class AQueryWriter
 	}
 
 	/**
-	 * If set to TRUE, this will cause SQL bindings with an
-	 * explicit FALSE value to convert to 0 instead of ''.
-	 * Returns the old flag value.
-	 *
-	 * @param boolean $flag TRUE or FALSE
-	 *
-	 * @return boolean
-	 */
-	public static function treatFalseBindingsAsInt( $flag ) {
-		$old = self::$treatFalseAsInt;
-		self::$treatFalseAsInt = (bool) $flag;
-		return $old;
-	}
-
-	/**
 	 * Checks whether a number can be treated like an int.
 	 *
 	 * @param  string $value string representation of a certain value
@@ -250,7 +230,7 @@ abstract class AQueryWriter
 	 */
 	public static function canBeTreatedAsInt( $value )
 	{
-		return (bool) ( strval( ($value === FALSE && self::$treatFalseAsInt) ? 0 : $value ) === strval( intval( $value ) ) );
+		return (bool) ( strval( $value ) === strval( intval( $value ) ) );
 	}
 
 	/**

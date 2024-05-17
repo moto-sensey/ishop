@@ -1,7 +1,10 @@
 <?php
 
-function debug($arr){
-  echo '<pre>'.print_r($arr, true).'</pre>';
+function debug($data, $die = false){
+  echo '<pre>'.print_r($data, 1).'</pre>';
+  if($die){
+    die;
+  }
 }
 
 function redirect($http = false){
@@ -15,5 +18,8 @@ function redirect($http = false){
 }
 
 function h($str){
-  return htmlspecialchars($str, ENT_QUOTES);
+  if($str){
+    return htmlspecialchars($str, ENT_QUOTES);
+  }
+  return '';
 }

@@ -1,14 +1,11 @@
 <?php
 
-require_once dirname(__DIR__).'/config/init.php';
-require_once LIBS.'/functions.php';
+if(PHP_MAJOR_VERSION < 8){
+    die('Лошара, обновись до PHP >= 8.x или иди на х..!!!');
+}
 
-require_once CONF.'/routes.php';
+require_once dirname(__DIR__).'/config/init.php';
+require_once HELPERS.'/functions.php';
+require_once CONFIG.'/routes.php';
 
 new ishop\App();
-
-
-
-//throw new Exception('Page not found', 404);
-
-//debug(\ishop\Router::getRoutes());

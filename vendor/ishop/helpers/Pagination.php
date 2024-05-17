@@ -1,6 +1,6 @@
 <?php 
 
-namespace ishop\libs;
+namespace ishop\helpers;
 
 class Pagination{
 

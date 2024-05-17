@@ -1,3 +1,14 @@
+<?php
+
+/**
+ * @var $errno \ishop\ErrorHandler
+ * @var $errstr \ishop\ErrorHandler
+ * @var $errfile \ishop\ErrorHandler
+ * @var $errline \ishop\ErrorHandler
+ * @var $response \ishop\ErrorHandler
+ */
+?>
+
 <!DOCTYPE html>
 <html>
 <head>

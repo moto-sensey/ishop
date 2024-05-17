@@ -16,7 +16,7 @@ class Filter{
     }
 
     protected function run(){
-        $cache = Cache::instance();
+        $cache = Cache::getInstance();
         $this->groups = $cache->get('filter_groups');
         $this->attrs = $cache->get('filter_attrs');
         if(!$this->groups){

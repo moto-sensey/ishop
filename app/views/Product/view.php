@@ -106,22 +106,22 @@
 					<div class="clearfix"> </div>
 				</div>
 				<script type="text/javascript">
-				$(function() {
-	    			var menu_ul = $('.menu_drop > li > ul'),
-	           		menu_a  = $('.menu_drop > li > a');
-	   				menu_ul.hide();
-	   				menu_a.click(function(e) {
-	        			e.preventDefault();
-	        			if(!$(this).hasClass('active')) {
-	            		menu_a.removeClass('active');
-	            		menu_ul.filter(':visible').slideUp('normal');
-	            		$(this).addClass('active').next().stop(true,true).slideDown('normal');
-	        			} else {
-	            			$(this).removeClass('active');
-	            			$(this).next().stop(true,true).slideUp('normal');
-	        			}
-	    			});
-				});
+					$(function() {
+						var menu_ul = $('.menu_drop > li > ul'),
+						menu_a  = $('.menu_drop > li > a');
+						menu_ul.hide();
+						menu_a.click(function(e) {
+							e.preventDefault();
+							if(!$(this).hasClass('active')) {
+							menu_a.removeClass('active');
+							menu_ul.filter(':visible').slideUp('normal');
+							$(this).addClass('active').next().stop(true,true).slideDown('normal');
+							} else {
+								$(this).removeClass('active');
+								$(this).next().stop(true,true).slideUp('normal');
+							}
+						});
+					});
 				</script>		
 				<div class="tabs">
 				<ul class="menu_drop">
@@ -227,7 +227,20 @@
 			</div>
 				<div class="col-md-3 single-right">
 					<div class="w_sidebar">
-						<!--<section  class="sky-form">
+					<section  class="sky-form">
+							<h4>Catogories</h4>
+							<div class="row1 scroll-pane">
+								<div class="col col-4">
+									<label class="checkbox"><input type="checkbox" name="checkbox" checked=""><i></i>All Accessories</label>
+								</div>
+								<div class="col col-4">								
+									<label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Women Watches</label>
+									<label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Kids Watches</label>
+									<label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Men Watches</label>			
+								</div>
+							</div>
+						</section>
+						<section  class="sky-form">
 							<h4>Brand</h4>
 							<div class="row1 row2 scroll-pane">
 								<div class="col col-4">
@@ -236,8 +249,47 @@
 									<?php endforeach;?>
 								</div>
 							</div>
-						</section>-->
-						<?php new \app\widgets\filter\Filter(); ?>
+						</section>
+						<section class="sky-form">
+							<h4>Colour</h4>
+								<ul class="w_nav2">
+									<li><a class="color1" href="#"></a></li>
+									<li><a class="color2" href="#"></a></li>
+									<li><a class="color3" href="#"></a></li>
+									<li><a class="color4" href="#"></a></li>
+									<li><a class="color5" href="#"></a></li>
+									<li><a class="color6" href="#"></a></li>
+									<li><a class="color7" href="#"></a></li>
+									<li><a class="color8" href="#"></a></li>
+									<li><a class="color9" href="#"></a></li>
+									<li><a class="color10" href="#"></a></li>
+									<li><a class="color12" href="#"></a></li>
+									<li><a class="color13" href="#"></a></li>
+									<li><a class="color14" href="#"></a></li>
+									<li><a class="color15" href="#"></a></li>
+									<li><a class="color5" href="#"></a></li>
+									<li><a class="color6" href="#"></a></li>
+									<li><a class="color7" href="#"></a></li>
+									<li><a class="color8" href="#"></a></li>
+									<li><a class="color9" href="#"></a></li>
+									<li><a class="color10" href="#"></a></li>
+								</ul>
+						</section>
+						<section class="sky-form">
+							<h4>discount</h4>
+								<div class="row1 row2 scroll-pane">
+									<div class="col col-4">
+										<label class="radio"><input type="radio" name="radio" checked=""><i></i>60 % and above</label>
+										<label class="radio"><input type="radio" name="radio"><i></i>50 % and above</label>
+										<label class="radio"><input type="radio" name="radio"><i></i>40 % and above</label>
+									</div>
+									<div class="col col-4">
+										<label class="radio"><input type="radio" name="radio"><i></i>30 % and above</label>
+										<label class="radio"><input type="radio" name="radio"><i></i>20 % and above</label>
+										<label class="radio"><input type="radio" name="radio"><i></i>10 % and above</label>
+									</div>
+								</div>						
+						</section>
 					</div>
 				</div>
 				<div class="clearfix"> </div>

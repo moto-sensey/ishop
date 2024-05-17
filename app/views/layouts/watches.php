@@ -4,6 +4,12 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
+
+<?php
+use ishop\base\View;
+/** @var $this View */
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,6 +21,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!--Megamenu-->
 <link href="megamenu/css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link href="megamenu/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
+<link href="<?=PATH?>/images/favicon.png" rel="icon" type="image/png" sizes="32x32" />
 <!--jQuery(necessary for Bootstrap's JavaScript plugins)-->
 <script src="js/jquery-1.11.0.min.js"></script>
 <!--Custom-Theme-files-->
@@ -140,7 +147,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 		</div>
 	</div>
-	<?=$content;?>
+	<?= $this->content; ?>
 	<!--information-starts-->
 	<div class="information">
 		<div class="container">
@@ -245,5 +252,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<script src="js/validator.js"></script>
 	<script src="js/typeahead.bundle.js"></script>
 	<script src="js/main.js"></script>	
+
+	<?php $this->getDbLogs(); ?>
+
 </body>
 </html>

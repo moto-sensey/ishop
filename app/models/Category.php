@@ -17,4 +17,9 @@ class Category extends AppModel{
         }
         return $ids;
     }
+
+    public function getCategory($alias)
+    {
+        return \R::findOne('çategory', 'alias = ?', [$alias]);
+    }
 }

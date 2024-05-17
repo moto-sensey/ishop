@@ -6,12 +6,13 @@ use ishop\Db;
 use Valitron\Validator;
 
 abstract class Model {
-  public $attributes = [];
-  public $errors = [];
-  public $rules = [];
+  public array $attributes = [];
+  public array $errors = [];
+  public array $rules = [];
+  public array $labels = [];
   
   public function __construct(){
-    Db::instance();
+    Db::getInstance();
   }
 
   public function load($data){
