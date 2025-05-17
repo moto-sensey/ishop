@@ -71,25 +71,36 @@ class CartController extends AppController{
                     $_SESSION['form_data'] = $data;
                     redirect();
                 }else{
-                    $email = $user->attributes['email'];
-                    $u = \R::findOne('user', 'email = ?', [$email]);
-                    if(!$u){
-                        $user->attributes['role'] = 'not_reg';
+                    //$email = $user->attributes['email'];
+                    //$u = \R::findOne('user', 'email = ?', [$email]);
+                    //if(!$u){
+                        //$user->attributes['role'] = 'not_reg';
+                        $user->attributes['password'] = password_hash($user->attributes['password'], PASSWORD_DEFAULT);
                         if(!$user_id = $user->save('user')){
                             $_SESSION['form_data'] = $data;
                             $_SESSION['error'] = 'Error!';
                             redirect();
-                        }
-                    }else{
-                        $user_id = $u->id;
+                        //}
+                    //}else{
+                        //$user_id = $u->id;
                     }
                 }
             }
             $data['user_id'] = isset($user_id) ? $user_id : $_SESSION['user']['id'];
             $data['note'] = !empty($_POST['note']) ? h($_POST['note']) :'';
-            $user_email = isset($_SESSION['user']['email']) ? $_SESSION['user']['email'] : $_POST['email'];
+           // $user_email = isset($_SESSION['user']['email']) ? $_SESSION['user']['email'] : $_POST['email'];
             $order_id = Order::saveOrder($data);
-            //Order::mailOrder($order_id, $user_email);
+           // Order::mailOrder($order_id, $user_email);
+           if (!$order_id = Order::saveOrder($data)) {
+            $_SESSION['errors'] = 'cart_checkout_error_save_order';
+            } else {
+                //Order::mailOrder($order_id, $user_email, 'mail_order_user');
+                //Order::mailOrder($order_id, App::$app->getProperty('admin_email'), 'mail_order_admin');
+                unset($_SESSION['cart']);
+                unset($_SESSION['cart.sum']);
+                unset($_SESSION['cart.qty']);
+                $_SESSION['success'] = 'cart_checkout_order_success';
+            }
         }
         redirect();
     }

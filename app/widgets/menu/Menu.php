@@ -57,10 +57,10 @@ class Menu{
                 $attrs .= " $k = '$v' ";
             }
         }
-        echo "<{$this->container} class='{$this->class}' $attrs><li><a href='".PATH."'>Home</a></li>";
+        echo "<{$this->container} class='{$this->class}' $attrs><li><a href='".base_url()."'>Home</a></li>";
         echo $this->prepend;
         echo $this->menuHtml;
-        echo "<li><a href='".PATH."'>Contact</a></li>";
+        echo "<li><a href='".base_url()."'>Contact</a></li>";
         echo "</{$this->container}>";
     }
 

@@ -1,5 +1,5 @@
 <?php $curr = \ishop\App::$app->getProperty('currency');
-	$around = $curr['code'] == 'UAH' ? 0 : 2;
+	$round = $curr['code'] == 'UAH' ? 0 : 2;
 ?>
 <!--start-breadcrumbs-->
 <div class="breadcrumbs">
@@ -20,23 +20,23 @@
                 <?php if(!empty($products)): $i = 0;?>
 					  <?php foreach($products as $product):?>
 						<?php
-							$delPrice = ($product->old_price && $product->old_price > $product->price)?'<small style="margin-left:10px;"><del>'.$curr['symbol_left'].bcmul ($product->old_price, $curr['value'], $around).$curr['symbol_right'].'</del></small>':'';
+							$delPrice = ($product['old_price'] && $product['old_price'] > $product['price'])?'<small style="margin-left:10px;"><del>'.$curr['symbol_left'].bcmul ($product['old_price'], $curr['value'], $round).$curr['symbol_right'].'</del></small>':'';
 						?>
 						<?php if($i == 0 || $i % 3 == 0) : ?>
 							<div class="product-one">
 						<?php endif; ?>
 						<div class="col-md-4 product-left p-left">
 						<div class="product-main simpleCart_shelfItem">
-							<a href="product/<?=$product->alias;?>" class="mask"><img class="img-responsive zoom-img" src="images/<?=$product->img;?>" alt="" /></a>
+							<a href="product/<?=$product['alias'];?>" class="mask"><img class="img-responsive zoom-img" src="images/<?=$product['img'];?>" alt="" /></a>
 							<div class="product-bottom">
-								<h3><a href="product/<?=$product->alias;?>"><?=$product->title;?></a></h3>
+								<h3><a href="product/<?=$product['alias'];?>"><?=$product['title'];?></a></h3>
 								<p>Explore Now</p>
-								 <h4><a class="item_add add-to-cart-link" data-id="<?=$product->id?>" href="cart/add?id=<?=$product->id;?>"><i></i></a> <span class=" item_price"><?=$curr['symbol_left'].bcmul ($product->price, $curr['value'], $around).$curr['symbol_right']?></span><?= $delPrice; ?></h4>
+								 <h4><a class="item_add add-to-cart-link" data-id="<?=$product['id']?>" href="cart/add?id=<?=$product['id'];?>"><i></i></a> <span class="item_price"><?=$curr['symbol_left'].bcmul ($product['price'], $curr['value'], $round).$curr['symbol_right']?></span><?= $delPrice; ?></h4>
 							</div>
-							<?php if($product->old_price && $product->old_price > $product->price):?>						
+							<?php if($product['old_price'] && $product['old_price'] > $product['price']):?>						
 							<div class="srch srch1">
 							  <?php
-							  $srch = 100-($product->price/$product->old_price*100);
+							  $srch = 100-($product['price']/$product['old_price'] * 100);
 							  ?>
 							  <span>-<?=(int)$srch;?>%</span>
 							</div>

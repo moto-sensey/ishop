@@ -1,17 +1,15 @@
 <!--banner-starts-->
 <div class="bnr" id="home">
 		<div  id="top" class="callbacks_container">
+			<?php if($slides) :?>
 			<ul class="rslides" id="slider4">
+				<?php foreach($slides as $slide): ?>
 			    <li>
-					<img src="images/bnr-1.jpg" alt=""/>
+					<img src="<?= PATH . $slide->img ?>" alt=""/>
 				</li>
-				<li>
-					<img src="images/bnr-2.jpg" alt=""/>
-				</li>
-				<li>
-					<img src="images/bnr-3.jpg" alt=""/>
-				</li>
+				<?php endforeach; ?>
 			</ul>
+			<?php endif; ?>
 		</div>
 		<div class="clearfix"> </div>
 	</div>
@@ -66,27 +64,28 @@
 			<div class="product-top">
 					<?php if($hits): $i = 0;?>
 					<?php $curr = \ishop\App::$app->getProperty('currency');
-						  $around = $curr['code'] == 'UAH' ? 0 : 2;
+						  $round = $curr['code'] == 'UAH' ? 0 : 2;
+						  $base_url = base_url();
 					?>
 					  <?php foreach($hits as $hit):?>
 						<?php
-							$delPrice = ($hit->old_price && $hit->old_price > $hit->price)?'<small style="margin-left:10px;"><del>'.$curr['symbol_left'].bcmul ($hit->old_price, $curr['value'], $around).$curr['symbol_right'].'</del></small>':'';
+							$delPrice = ($hit['old_price'] && $hit['old_price'] > $hit['price'])?'<small style="margin-left:10px;"><del>'.$curr['symbol_left'].bcmul ($hit['old_price'], $curr['value'], $round).$curr['symbol_right'].'</del></small>':'';
 						?>
 						<?php if($i == 0 || $i % 4 == 0) : ?>
 							<div class="product-one">
 						<?php endif; ?>
 						<div class="col-md-3 product-left">
 						<div class="product-main simpleCart_shelfItem">
-							<a href="product/<?=$hit->alias;?>" class="mask"><img class="img-responsive zoom-img" src="images/<?=$hit->img;?>" alt="" /></a>
+							<a href="<?="{$base_url}/product/{$hit['alias']}";?>" class="mask"><img class="img-responsive zoom-img" src="images/<?=$hit['img'];?>" alt="" /></a>
 							<div class="product-bottom">
-								<h3><a href="product/<?=$hit->alias;?>"><?=$hit->title;?></a></h3>
+								<h3><a href="<?= "{$base_url}/product/{$hit['alias']}"; ?>"><?=$hit['title'];?></a></h3>
 								<p>Explore Now</p>
-								 <h4><a class="item_add add-to-cart-link" data-id="<?=$hit->id?>" href="cart/add?id=<?=$hit->id;?>"><i></i></a> <span class=" item_price"><?=$curr['symbol_left'].bcmul ($hit->price, $curr['value'], $around).$curr['symbol_right']?></span><?= $delPrice; ?></h4>
+								 <h4><a class="item_add add-to-cart-link" data-id="<?=$hit['id']?>" href="cart/add?id=<?=$hit['id'];?>"><i></i></a> <span class=" item_price"><?=$curr['symbol_left'].bcmul ($hit['price'], $curr['value'], $round).$curr['symbol_right']?></span><?= $delPrice; ?></h4>
 							</div>
-							<?php if($hit->old_price && $hit->old_price > $hit->price):?>						
+							<?php if($hit['old_price'] && $hit['old_price'] > $hit['price']):?>						
 							<div class="srch">
 							  <?php
-							  $srch = 100-($hit->price/$hit->old_price*100);
+							  $srch = 100-($hit['price'] / $hit['old_price'] * 100);
 							  ?>
 							  <span>-<?=(int)$srch;?>%</span>
 							</div>

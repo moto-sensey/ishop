@@ -3,7 +3,7 @@
 namespace app\controllers;
 
 use app\models\User;
-use ishop\App;
+//use ishop\App;
 
 class UserController extends AppController{
    

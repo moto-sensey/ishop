@@ -37,24 +37,16 @@ use ishop\base\View;
 			<div class="top-header-main">
 				<div class="col-md-6 top-header-left">
 					<div class="drop">
-						<div class="box">
-							<select id="currency" tabindex="4" class="dropdown drop">
+						<div class="box">	
 							<?php new \app\widgets\currency\Currency(); ?>
-							</select>
 						</div>
 						<div class="box1">
-							<select tabindex="4" class="dropdown">
-								<option value="" class="label">English :</option>
-								<option value="1">English</option>
-								<option value="2">French</option>
-								<option value="3">German</option>
-							</select>
+							<?php new \app\widgets\language\Language() ?>
 						</div>
 						<div class="clearfix"></div>
 					</div>
 				</div>
 				<div class="col-md-6 top-header-left">
-					
 					<div class="cart box_1">
 					<div class="btn-group">
 						<?php $userText = !empty($_SESSION['user']) ?  'Wellcom, '.$_SESSION['user']['name'].' ' : 'Зареєструйся або увійди, КОЗЕЛ!!! ';?>
@@ -74,7 +66,7 @@ use ishop\base\View;
 							<div class="total">
 								<img src="images/cart-1.png" alt="" />
 								<?php if(!empty($_SESSION['cart'])):?>
-									<p><span class="simpleCart_total"><?= $_SESSION['cart.currency']['symbol_left'].bcmul($_SESSION['cart.sum'], $_SESSION['cart.currency']['value'],$around).$_SESSION['cart.currency']['symbol_right'] ?></span></p>
+									<p><span class="simpleCart_total"><?= $_SESSION['cart.currency']['symbol_left'].bcmul($_SESSION['cart.sum'], $_SESSION['cart.currency']['value'],$round).$_SESSION['cart.currency']['symbol_right'] ?></span></p>
 								<?php else: ?>
 									<p><span class="simpleCart_total">Empty Cart</span></p>
 								<?php endif; ?>
@@ -90,7 +82,7 @@ use ishop\base\View;
 	<!--top-header-->
 	<!--start-logo-->
 	<div class="logo">
-		<a href="index.html"><h1>Luxury Watches</h1></a>
+		<a href="<?= base_url(); ?>"><h1>Luxury Watches</h1></a>
 	</div>
 	<!--start-logo-->
 	<!--bottom-header-->

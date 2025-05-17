@@ -1,5 +1,5 @@
 <?php $curr = \ishop\App::$app->getProperty('currency');
-	$around = $curr['code'] == 'UAH' ? 0 : 2;
+	$round = $curr['code'] == 'UAH' ? 0 : 2;
 ?>
 <!--start-breadcrumbs-->
 <div class="breadcrumbs">

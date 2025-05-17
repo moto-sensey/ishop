@@ -1,13 +1,14 @@
 {
   "autoload":{
     "psr-4":{
-      "ishop\\":"vendor/ishop",
+      "ishop\\":"ishop",
       "app\\":"app"
     }
   },
   "require":{
     "gabordemooij/redbean": "^v5.7.4",
     "vlucas/valitron": "^1.4",
-    "swiftmailer/swiftmailer": "^6.3"
+    "swiftmailer/swiftmailer": "^6.3",
+    "symfony/mailer": "^7.2"
   }
 }

@@ -1,8 +1,8 @@
 /* Filter */
 $('body').on('change', '.w_sidebar input', function(){
-    var checked = $('.w_sidebar input:checked'),
+    let checked = $('.w_sidebar input:checked'),
         data = '';
-    checked.each(function(){
+        checked.each(function(){
         data += this.value + ',';
     });
     if(data){
@@ -28,8 +28,8 @@ $('body').on('change', '.w_sidebar input', function(){
         window.location = location.pathname;
     }
 });
-
-/* Search */
+// End filter
+// Search 
 let products = new Bloodhound({
     datumTokenizer: Bloodhound.tokenizers.whitespace,
     queryTokenizer: Bloodhound.tokenizers.whitespace,
@@ -42,7 +42,7 @@ let products = new Bloodhound({
 products.initialize();
 
 $("#typeahead").typeahead({
-    //hint: false,
+    hint: false,
     highlight: true
 },
 {
@@ -55,8 +55,8 @@ $("#typeahead").typeahead({
 $("#typeahead").bind('typeahead:select', function(ev, suggestion){
     window.location = path + '/search/?s=' + encodeURIComponent(suggestion.title);
 });
-
-/* Cart */
+// End search
+// Cart 
 $('body').on('click', '.add-to-cart-link', function(e){
     e.preventDefault();
     let id = $(this).data('id'),
@@ -130,20 +130,28 @@ function clearCart(){
         }
     });
 }
-/* Cart */
-
+// End Cart 
+// Change currency 
 $('#currency').change(function(){
-    window.location = 'currency/change?curr='+$(this).val();
+    window.location = 'currency/change?curr=' + $(this).val();
 });
-
+// End change currency
+// Change mods
 $('.available select').on('change', function(){
     let modId = $(this).val(),
         color = $(this).find('option').filter(':selected').data('title'),
         price = $(this).find('option').filter(':selected').data('price'),
         basePrice = $('#base-price').data('base');
     if(price){
-        $('#base-price').text(symbolLeft + price + symbolRight);
+        $('#base-price').html(symbolLeft + price + symbolRight);
     }else{
-        $('#base-price').text(symbolLeft + basePrice + symbolRight);
+        $('#base-price').html(symbolLeft + basePrice + symbolRight);
     }
 });
+// End change mods
+// Change language
+$('#languages').change(function(){
+    //const lang_code = $(this).data('langcode');
+    window.location = 'language/change?lang=' + $(this).val();
+});
+// End change language

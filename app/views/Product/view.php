@@ -61,10 +61,10 @@
 							</div>
 							<?php $curr = \ishop\App::$app->getProperty('currency');
 								  $cats = \ishop\App::$app->getProperty('cats');
-						  		  $around = $curr['code'] == 'UAH' ? 0 : 2;
-								  $delPrice = ($product->old_price && $product->old_price > $product->price)?'<small style="margin-left:10px;"><del>'.$curr['symbol_left'].bcmul ($product->old_price, $curr['value'], $around).$curr['symbol_right'].'</del></small>':'';
+						  		  $round = $curr['code'] == 'UAH' ? 0 : 2;
+								  $delPrice = ($product->old_price && $product->old_price > $product->price)?'<small style="margin-left:10px;"><del>'.$curr['symbol_left'].bcmul ($product->old_price, $curr['value'], $round).$curr['symbol_right'].'</del></small>':'';
 							?>
-							<h5> <span id="base-price" class="item_price" data-base="<?= bcmul ($product->price, $curr['value'], $around);?>"><?=$curr['symbol_left'].bcmul ($product->price, $curr['value'], $around).$curr['symbol_right']?></span><?= $delPrice; ?></h5>
+							<h5> <span id="base-price" class="item_price" data-base="<?= bcmul ($product->price, $curr['value'], $round);?>"><?=$curr['symbol_left'].bcmul ($product->price, $curr['value'], $round).$curr['symbol_right']?></span><?= $delPrice; ?></h5>
 							<p><?= $product->content; ?></p>
 							<div class="available">
 								<ul>
@@ -73,7 +73,7 @@
 										<select  data-id="<?=$product->id;?>">
 										<option value="">Select color</option>
 										<?php foreach($mods as $mod): ?>
-										<option data-title="<?=$mod->title;?>" data-price="<?=bcmul ($mod->price, $curr['value'], $around)?>" value="<?=$mod->id;?>"><?=$mod->title;?></option>
+										<option data-title="<?=$mod->title;?>" data-price="<?=bcmul ($mod->price, $curr['value'], $round)?>" value="<?=$mod->id;?>"><?=$mod->title;?></option>
 										<?php endforeach; ?>
 										</select>
 									</li>
@@ -165,7 +165,7 @@
 					<div class="product-one">
 						<h3>З цим товаром теж купують:</h3>
 						<?php foreach($related as $prod):
-						$delPriceRelated = ($prod['old_price'] && $prod['old_price'] > $prod['price'])?'<small style="margin-left:10px;"><del>'.$curr['symbol_left'].bcmul ($prod['old_price'], $curr['value'], $around).$curr['symbol_right'].'</del></small>':'';	
+						$delPriceRelated = ($prod['old_price'] && $prod['old_price'] > $prod['price'])?'<small style="margin-left:10px;"><del>'.$curr['symbol_left'].bcmul ($prod['old_price'], $curr['value'], $round).$curr['symbol_right'].'</del></small>':'';	
 						?>
 						<div class="col-md-4 product-left p-left"> 
 							<div class="product-main simpleCart_shelfItem">
@@ -174,7 +174,7 @@
 									<h3><a href="product/<?=$prod['alias']?>"><?=$prod['title']?></a></h3>
 									<p>Explore Now</p>
 									<h4><a class="item_add add-to-cart-link" href="cart/add?id=<?=$prod['id']?>" data-id="<?=$prod['id']?>"><i></i></a>
-										<span class="item_price"><?=$curr['symbol_left'].bcmul ($prod['price'], $curr['value'], $around).$curr['symbol_right']?></span><?= $delPriceRelated; ?>
+										<span class="item_price"><?=$curr['symbol_left'].bcmul ($prod['price'], $curr['value'], $round).$curr['symbol_right']?></span><?= $delPriceRelated; ?>
 									</h4>
 								</div>
 							<?php if($prod['old_price'] && $prod['old_price'] > $prod['price']):?>						
@@ -197,7 +197,7 @@
 					<div class="product-one">
 						<h3>Товари, які Ви дивились:</h3>
 						<?php foreach($recentlyViewed as $prod):
-						$delPriceViewed = ($prod['old_price'] && $prod['old_price'] > $prod['price'])?'<small style="margin-left:10px;"><del>'.$curr['symbol_left'].bcmul ($prod['old_price'], $curr['value'], $around).$curr['symbol_right'].'</del></small>':'';	
+						$delPriceViewed = ($prod['old_price'] && $prod['old_price'] > $prod['price'])?'<small style="margin-left:10px;"><del>'.$curr['symbol_left'].bcmul ($prod['old_price'], $curr['value'], $round).$curr['symbol_right'].'</del></small>':'';	
 						?>
 						<div class="col-md-4 product-left p-left"> 
 							<div class="product-main simpleCart_shelfItem">
@@ -206,7 +206,7 @@
 									<h3><a href="product/<?=$prod['alias']?>"><?=$prod['title']?></a></h3>
 									<p>Explore Now</p>
 									<h4><a class="item_add add-to-cart-link" href="cart/add?id=<?=$prod['id']?>" data-id="<?=$prod['id']?>"><i></i></a>
-										<span class="item_price"><?=$curr['symbol_left'].bcmul ($prod['price'], $curr['value'], $around).$curr['symbol_right']?></span><?= $delPriceViewed; ?>
+										<span class="item_price"><?=$curr['symbol_left'].bcmul ($prod['price'], $curr['value'], $round).$curr['symbol_right']?></span><?= $delPriceViewed; ?>
 									</h4>
 								</div>
 							<?php if($prod['old_price'] && $prod['old_price'] > $prod['price']):?>						

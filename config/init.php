@@ -4,8 +4,8 @@ define("DEBUG", 1);
 define("ROOT", dirname(__DIR__));
 define("WWW", ROOT. '/public');
 define("APP", ROOT. '/app');
-define("CORE", ROOT. '/vendor/ishop'); // ???
-define("HELPERS", ROOT. '/vendor/ishop/helpers');
+define("CORE", ROOT. '/ishop'); // ???
+define("HELPERS", ROOT. '/ishop/helpers');
 define("CACHE", ROOT. '/tmp/cache');
 define("LOGS", ROOT. '/tmp/logs');
 define("CONFIG", ROOT. '/config');
